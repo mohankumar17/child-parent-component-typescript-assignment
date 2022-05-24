@@ -1,0 +1,23 @@
+.cover {
+  position: absolute;
+  width: 284px;
+  height: 282px;
+  left: 0px;
+  top: 0px;
+}
+
+.mask-group {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 39.48%;
+
+  background: #c4c4c4;
+  border-radius: 8px 8px 0px 0px;
+}
+
+.mask-group img {
+  width: 284px;
+  height: 282px;
+}
